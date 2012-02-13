@@ -1,0 +1,3 @@
+[submodule "bones-responsive"]
+	path = bones-responsive
+	url = https://github.com/eddiemachado/bones-responsive.git
