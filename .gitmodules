@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/bones-responsive"]
+	path = wp-content/themes/bones-responsive
+	url = https://github.com/eddiemachado/bones-responsive.git
