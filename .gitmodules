@@ -1,3 +1,9 @@
 [submodule "wp-content/themes/bones-responsive"]
 	path = wp-content/themes/bones-responsive
 	url = git://github.com/eddiemachado/bones-responsive.git
+[submodule "wp-content/themes/roots"]
+	path = wp-content/themes/roots
+	url = git://github.com/retlehs/roots.git
+[submodule "wp-content/themes/reverie"]
+	path = wp-content/themes/reverie
+	url = git://github.com/milohuang/reverie.git
